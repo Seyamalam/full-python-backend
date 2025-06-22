@@ -169,15 +169,15 @@ A comprehensive, production-ready Flask API project showcasing various backend d
 ## 🚦 Getting Started
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.10+
 - pip
 
 ### Installation
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/flask-portfolio-api.git
-cd flask-portfolio-api
+git clone https://github.com/Seyamalam/full-python-backend.git
+cd full-python-backend
 ```
 
 2. Create a virtual environment
@@ -455,7 +455,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Touhidul Alam Seyam - [seyamalam41@gmail.com](mailto:seyamalam41@gmail.com)
 
 ---
 
